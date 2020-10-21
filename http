@@ -1,0 +1,10 @@
+HTTP stands for Hyper Text Transfer Protocol
+This acts as a bridge of communication between client computer and web server.
+The requests send from client computer are called HTTP requests and they return as HTTP responses.
+
+How this actually works:
+1.The request from the web browser is sent in the form of HTTP request .
+2.Web server receives the request.
+3.The server runs to process the request.
+4.The After processing the server returns the HTTP response.
+5. This response is received by the client.
